@@ -55,7 +55,7 @@
     * Associative: $\forall x,y,z \in G, (xy)z=x(yz)$
     * $\exists 1 \in G, \quad \forall g\in G, \quad 1\cdot g = g\cdot 1 = g$. ($1$ is called the identity)
     * $\forall g \in G, $     $\exists g^{-1}\in G$,     $gg^{-1} = g^{-1}g = 1$. ($g^{-1}$ is called the inverse of $g$)
-* If a groups is also commutative (i.e. $\forall g_1, g_2 \in G, g_1h_2 = g_2g_1$), then we say it's an <u>**abelian group**</u> (named after Abel)
+*  If a groups is also commutative (i.e. $\forall g_1, g_2 \in G, g_1h_2 = g_2g_1$), then we say it's an <u>**abelian group**</u> (named after Abel)
 * We see the two motivating examples are groups
 * Remarks on notation:
     * $e$ is also often used to denote identity
@@ -107,14 +107,17 @@
 
 * <u>**Theorem**</u>: In a group $G$, the identity is unique
 
-* Proof: 
+    Proof: 
     * If 1, 1' are both identities of $G$, then $1 = 1\cdot 1' = 1'$ 
 
-    > Inverse of $g\in G$ is also unique
+
+> Inverse of $g\in G$ is also unique
+
+
 
 * **<u>Theorem</u>** (<u>Cancellation Law</u>):  If $G$ is a group, $x,y,z\in G$, the $xy = xz \Rightarrow y=z$
 
-* Proof: 
+    Proof: 
     $$
     xy = xz\\
     x^{-1}(xy) = x^{-1}(xz)\\
@@ -123,12 +126,12 @@
     y = z
     $$
 
-* **NOTE**: $\mathbb{R}$ with multiplication is NOT a group. 
+> **NOTE**: $\mathbb{R}$ with multiplication is ==NOT== a group. 
+> 
+> * Because $0\in \mathbb{R}$ has no inverse, cancellation law is not true on $\mathbb{R}$
+>     * Ex: $x(x-1) = 2x$
+> 
+> * On the other hand, $\mathbb{R}$ with addition is a group, so cancellation law holds.
+>     * $a+b =a+c\quad \Rightarrow\quad b=c$
 
-    * Because $0\in \mathbb{R}$ has no inverse, cancellation law is not true on $\mathbb{R}$
-        * Ex: $x(x-1) = 2x$
-
-    * On the other hand, $\mathbb{R}$ with addition is a group, so cancellation law holds.
-        * $a+b =a+c\quad \Rightarrow\quad b=c$
-
-    
+​    
