@@ -1,4 +1,4 @@
-# Class - 2022/09/27
+# Class - 2022/09/27: Bayes
 
 ## Practice Problem
 
@@ -23,12 +23,12 @@
     
      
 
-## Simplifying Notation
+## Simplifying Notation   (Bayes)
 
 ### Tree
 
 >  Note that the **branch** is a <u>conditional probability</u>, and the **node** is the <u>the conditional probability times the previous probability (the intersection)</u>. 
-![image-20221005120222638](./images/Class_20220927_p5.png)
+![image-20221005120222638](./images/20220927/Class_20220927_p5.png)
 
 ### $2$ disjoint events
 
