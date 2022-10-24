@@ -1,5 +1,7 @@
 # Class 3: Groups - 2022/09/14
 
+[TOC]
+
 ## Motivating Examples
 
 1. The set of integers $\Z$, we have addition defined on it: $a+b$

@@ -1,5 +1,7 @@
 # Class - 2022/09/27: Bayes
 
+[TOC]
+
 ## Practice Problem
 
 1. Suppose you are dealt two cards face down from a standard deck.
