@@ -128,7 +128,7 @@ g is not subjective
 
 
 
-#### Bijective 
+#### Bijective
 
 def: A function is bijective if it's both injective and surjective
 
@@ -170,9 +170,9 @@ So g is  the inverse o f f, f is invertible
 
 <u>Prop.</u> $f:X\rightarrow Y$ is bijective if and only if it's invertible
 
-<u>Lemma</u> If $f:X\rightarrow Y$, $g:Y\rightarrow X$, $gof = id_X$ ,  then g is surjective and f is injective
+<u>Lemma</u> If $f:X\rightarrow Y$, $g:Y\rightarrow X$, $g\circ f = id_X$ ,  then $g$ is surjective and $f$ is injective
 
-<u>Proof of Lemma</u>: if f(x1) = f(x2), then gof(x1) = gof(x2)
+<u>Proof of Lemma</u>: if $f(x1) = f(x2)$, then $gof(x1) = gof(x2)$
 
 idx(x1) = idx(x2)
 

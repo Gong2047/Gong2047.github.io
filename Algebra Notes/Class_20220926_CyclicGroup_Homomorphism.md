@@ -1,4 +1,4 @@
-# Algebra: 2022/09/26
+# Class 6: CyclicGroup & Homomorphism -  2022/09/26
 
 [TOC]
 
